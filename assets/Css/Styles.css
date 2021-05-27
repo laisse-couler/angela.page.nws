@@ -1,0 +1,74 @@
+/* default : mobile */
+img {
+    border-radius: 65px;
+    padding: 50px;
+    width: 200px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
+body {
+    font-family: arial, sans-serif;
+    padding: 25px;
+    border-radius:black;
+    margin: 20px;
+    background-color:burlywood;
+  }
+   
+section {
+    border-left: 90px;
+    border-right: 90px;
+    border-top: 90px;
+    margin: 60px;
+    padding: 30px;
+    background-color: rgb(234, 234, 241);
+   
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  h2 {
+    font-size: 35px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+#contact {
+    background: rgb(255, 255, 255);
+}
+#pro {
+    background: tomato;
+}
+#school {
+    background-color: blue;
+}
+  
+  }
+#hobbies {
+   background: rgb(0, 255, 136);
+}
+
+/* tablet vertical */
+@media only screen and (min-width: 768px){
+}
+
+/* tablet horizontal */
+@media only screen and (min-width: 1024px){
+}
+
+/* tablet horizontal */
+@media only screen and (min-width: 1280px){
+}
+

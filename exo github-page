@@ -7,21 +7,20 @@
     <body>
         <nav>
             <ul>
-                <li>Projets</li>
-                <li>Illustration</li>
-                <li>Réseaux sociaux</li>
+                <li>Riz à la sauce graine</li>
+                <li>Atiéké et le poisson braisé</li>
+                <li>Alloco</li>
             </ul>
         </nav>
         <header>
-            <h1>Angela Irie</h1>
-            <a>Conceptrice Web en Formation de Chef de Projet Digital à la Normandie Web School Prémière année
-            </a>
+            <h1>Mes Plats préféré</h1>
+            <a>Ils sont principalement ivoirien</a>
         </header>
 
          <div>
-           <a>1 place du Donjon 61200 Argentan
-
-           </a>
-           <a >07 80 52 36 47</a>
-           <a >angelairie21@gmail.com</a>
+         <img src=alloco.jpg>
+           <a>La sauce graine est une sauce faite à base de graine de palme</a>
+           <a >Le deuxieème bah, on l'imagine bien !</a>
+           <a >et l'alloco, c'est la banane plantain frie</a>
          </div>
+    <body>
