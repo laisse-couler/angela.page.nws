@@ -1,1 +1,27 @@
-he
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>angela-irie</title>
+    </head>
+
+    <body>
+        <nav>
+            <ul>
+                <li>Projets</li>
+                <li>Illustration</li>
+                <li>Réseaux sociaux</li>
+            </ul>
+        </nav>
+        <header>
+            <h1>Angela Irie</h1>
+            <article>Conceptrice Web en Formation de Chef de Projet Digital à la Normandie Web School Prémière année
+            </article>
+        </header>
+
+         <div>
+           <a>1 place du Donjon 61200 Argentan
+
+           </a>
+           <a >07 80 52 36 47</a>
+           <a >angelairie21@gmail.com</a>
+         </div>
